@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Clone on Local
+
+copy the project link and time in your terminal git clone (with copied link) and press enter.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -30,6 +34,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: This UI is only Responsive for screen xxl, xl, lg and md not optimized for mobile device**
 
 *** No Routes created and no actions defined 
-**** two PDF coverted in UI Design and and show on same routes one after another you can create routes or host one by one to see as different pages.
+**** two PDF coverted in UI Design and shown on same routes one after another you can create routes or host one by one to see as different pages.
 
 
