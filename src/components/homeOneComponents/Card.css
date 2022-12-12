@@ -1,0 +1,50 @@
+.card-details {
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start;
+    margin-top: 3rem;
+    background-color: #ffffff;
+    border-radius: 1.25rem;
+    box-shadow: #f7f3ef 3px 3px,#f7f7f7 6px 6px, #fef6f6 10px 10px;
+    cursor: pointer;
+}
+
+.icons-div {
+    display: flex;
+    min-height: 3rem;
+    min-width: 3rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    background-color: #e7ffef;
+    border-radius: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.mui-icon {
+    color: #00a652;
+    height: 2rem;
+    width: 2rem;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.5rem;
+}
+
+.details p{
+    margin-bottom: 0px;
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #00a652;
+}
+
+.details span {
+    font-size: 0.75rem;
+
+}

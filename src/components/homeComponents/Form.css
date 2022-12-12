@@ -1,0 +1,29 @@
+td:first-child {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+td:nth-child(2) {
+    font-size: 14px;
+    font-weight: 600;
+    color: #00a652;
+}
+
+td:nth-child(5) {
+    font-size: 14px;
+    font-weight: 600;
+    color: #00a652;
+    text-align: end;
+    padding-right: 1rem;
+}
+
+th:nth-child(5){
+    text-align: end;
+}
+
+tr td {
+    font-size: 14px;
+    font-weight: 400;
+}
+
