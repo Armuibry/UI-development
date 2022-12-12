@@ -24,10 +24,8 @@ You may also see any lint errors in the console.
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Website hosted Link`
+[visit website](https://impetus-ff3e4.web.app/)
 
 ### UI Compatiblity with Screen Size
 
